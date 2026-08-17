@@ -1,0 +1,90 @@
+- first three months 15th July to 15th October
+- after three months continuous 
+--------------------------------------------------------------------
+- Start Date : 15th July 2026
+
+
+================================================================================================
+
+What need to be follow for Namaste DSA
+ - Minimum 6 months required 
+ - 4 hours daily required next 6 months (2hrs morning and 2hrs night)
+ - Whatever happen you should not break your consistency, except emergency case
+ - Revision daily because it's little harder subject than other
+ - Make your own notes and write your own code
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+----------------------------------------------------------------------------------------------------------------------------------------------------
+1- # Learn DSA in right way So avoid forgetting it again and again
+  - Use Pen and Paper
+	- Scribble alot
+	- Make your own notes and write your own code
+-----------------------------------------------------------------------
+2- # Action Recall
+  - after watching video
+	- Close everything 
+	- Solve without seeing the video/solution 
+	- Struggle with code
+"If you can't recall, there was gap in understanding"
+
+--------------------------------------------------------------------------
+
+
+3- # Spaced Repetition (Most Important)
+ - Revise with gaps:
+	- Day 0 - Learn and solve (Learn and solve it with pen & paper)
+	- Day 2 - Revise ( Directly go to leetcode and solve the problem,
+	          first revision don't see the notes / solution : write your own as per understanding on day 0 
+	- Day 5 - Recall & revise (Try to recall the concepts practice with pen & paper and solve that question without notes/solution 
+ 	          , If not then see your notes and do it , still not able to do that then rewatch the video again)
+	- Day 10 - Revise again (Revise the concept you study 10 days before , if you can still recall the concept then good for it.)
+
+"Every visit will make memory stronger" : while revision solve the same question of that perticular concept instead of different problem
+----------------------------------------------------------------------------------
+4- # Don't skip the struggle
+ - Learning takes time
+ - Don't give up too fast
+ - Struggle minimum 20 - 30 minutes
+"Struggle create better memory"
+---------------------------------------------------------------------------------
+5- # Maintain a revision sheet (seprate notes) VV IMP
+ - Make your own notes
+ - Write down:
+	> pattern
+	> space & Time complexity
+	> Mistake you made
+	> New concept
+	> Key Idea
+-------------------------------------------------------------------------------------
+6- # Resolve, Don't rewatch
+ - Learning for first time
+	- watch
+	- Take notes + Revision sheet
+	- Code your self
+- Revison 
+	- Directly solve the problem
+	- Struggle ( 20 - 30 min )
+	- Refer Notes
+	- Read Code
+	- Re watch if needed
+---------------------------------------------------------------------------------------
+7- # Thought process >>>>>>>>>> solutions
+ - Don't memories, Understand
+ - Ask Why ?
+ - Take Pause
+ - Don't skip the code
+--------------------------------------------------------------
+8- # Practice Blind problem "random problem" (Once you finished DSA Learning only) : this is advance
+ - Can you come up with the  solution under pressure ?
+ - Improve your thought process and approach
+----------------------------------------------------------------------------------------------------------- 
+"It takes time" 6 months Hard work required to see your self different in your career goal
+
+	
+
+
+
+
+
+
+
+ 
