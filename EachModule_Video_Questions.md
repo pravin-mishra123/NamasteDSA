@@ -387,6 +387,34 @@
 
    - https://leetcode.com/problems/remove-element/description/
    - https://leetcode.com/problems/apply-operations-to-an-array/description/
+
+## Max Consecutive Ones (Imp)
+
+ 1. Given a binary array nums, return the maximum number of consecutive 1's in the array.
+
+    Note that you must do this in-place without making a copy of the array.
+ 
+ - Leetcode Link : https://leetcode.com/problems/max-consecutive-ones/description/
+
+ * Input: nums = [1,1,0,1,1,1]
+   Output: 3
+   Explanation: The first two digits or the last three digits are consecutive 1s. The maximum number of consecutive 1s is 3.
+
+
+ * Input: nums = [1,0,1,1,0,1]
+   Output: 2
+
+ * Notes : " Practce Similar Questions" without seeing the hint and solutions
+
+   - https://leetcode.com/problems/maximum-subarray/description/
+   - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+   - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
+   - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/
+   - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
+   - https://leetcode.com/problems/sum-of-beauty-in-the-array/description/
+   - https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/
+   - https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/
+   - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/
    
 
 

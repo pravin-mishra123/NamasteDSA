@@ -24,7 +24,7 @@
 // - https://leetcode.com/problems/apply-operations-to-an-array/description/
 // - https://leetcode.com/problems/sum-of-distances/description/
 
-
+// ---------------------------------------------------------
 // 2. Remove Element
 
 // function removeElements(arr,val){
@@ -48,6 +48,7 @@
 // - https://leetcode.com/problems/remove-linked-list-elements/description/
 // - https://leetcode.com/problems/move-zeroes/description/
 
+//---------------------------------------------------------------
 // 3. Reverse String
 
 // function reverseString(s){
@@ -87,6 +88,7 @@
 // let arr = ["P","R","A","V","I","N","A"];
 // console.log(reverseString(arr))
 
+//----------------------------------------------------------------
 // 4. Best time to buy and sell stocks
 
 // function bestProfit(prices){
@@ -119,7 +121,7 @@
 // - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/
 
 
-
+//------------------------------------------------------------
 // 5. Merge Sorted Array;
 
 // 1. bruite force approch
@@ -140,6 +142,7 @@
 //  Time complexity (m+n log (m+n))
 
 // 2. two pointer approch
+
 
 // function mergeSortedArray(nums1, m, nums2,n){
 //     let nums1Copy = nums1.slice(0,m);
@@ -198,7 +201,7 @@
 // - https://leetcode.com/problems/interval-list-intersections/description/
 // - https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/
 
-
+//-----------------------------------------------------------
 // 6. Move Zeros
 // two pointer approch
 
@@ -219,24 +222,54 @@
 // console.log(moveZeros(arr))
 
 
-function moveZeros(nums){
-    let p1 = 0;
+// function moveZeros(nums){
+//     let p1 = 0;
 
-    for(let i  = 0; i < nums.length; i++){
-        if(arr[i] !== 0 ){
-            nums[p1] = nums[i]; // shift current value to the p1 position
-            p1++; // update the next position
-        }
-    }
+//     for(let i  = 0; i < nums.length; i++){
+//         if(arr[i] !== 0 ){
+//             nums[p1] = nums[i]; // shift current value to the p1 position
+//             p1++; // update the next position
+//         }
+//     }
 
-    // fill all the remaining element to the zero
-    for(let i = p1; i < nums.length; i++){
-        nums[i] = 0;
-    }
+//     // fill all the remaining element to the zero
+//     for(let i = p1; i < nums.length; i++){
+//         nums[i] = 0;
+//     }
 
-    return nums;
-}
+//     return nums;
+// }
 
 
-let arr = [0,0,0,0];
-console.log(moveZeros(arr))
+// let arr = [0,0,0,0];
+// console.log(moveZeros(arr))
+
+//-----------------------------------------------------------
+// 7. Max Consecutive Ones
+
+// function maxConsecutive(nums){
+//     let currentCount = 0
+//     let maxCount = 0
+
+//     for(let i = 0; i<nums.length; i++){
+//         if(nums[i] ===1){
+//             currentCount++
+//         }else{
+//             // updating maxcount between current and maxcount
+//              maxCount = Math.max(currentCount,maxCount)
+//              currentCount = 0
+//         }
+//     }
+//     // returning max value between current and maxcount which one is grater
+//     return Math.max(currentCount,maxCount);
+
+// }
+// console.log(maxConsecutive([1,1,0,1,1,1]))
+
+// Practice similar questions
+// - https://leetcode.com/problems/max-consecutive-ones-ii/description/
+// - https://leetcode.com/problems/max-consecutive-ones-iii/description/
+// - https://leetcode.com/problems/consecutive-characters/description/
+// - https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/description/
+// - https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/description/
+// - https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/description/

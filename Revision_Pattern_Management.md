@@ -167,3 +167,13 @@ I will try this pattern question (17/8/2026)
  - 31/8/2026 - without seeing solution
  - 10/9/2026 - without seeing solution
  - 9/10/2026 - without seeing solution
+
+## Max Consecutive (IMP) - watched
+ - 17/8/2026 - learning => done
+ - 18/8/2026 without seeing solution 
+ - 20/8/2026 - without seeing solution
+ - 23/8/2026 - without seeing solution
+ - 27/8/2026 - without seeing solution
+ - 1/9/2026 - without seeing solution
+ - 11/9/2026 - without seeing solution
+ - 10/10/2026 - without seeing solution
