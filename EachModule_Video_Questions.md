@@ -415,6 +415,9 @@
    - https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/
    - https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/
    - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/
+
+   * Read about Math.max()
+      - In this questions we use the Math.max() because we have to update the max value and while returning we are again return max value that why we use Math.max()
    
 
 
