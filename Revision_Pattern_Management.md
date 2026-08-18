@@ -170,10 +170,20 @@ I will try this pattern question (17/8/2026)
 
 ## Max Consecutive (IMP) - watched
  - 17/8/2026 - learning => done
- - 18/8/2026 without seeing solution 
+ - 18/8/2026 without seeing solution => done 
  - 20/8/2026 - without seeing solution
  - 23/8/2026 - without seeing solution
  - 27/8/2026 - without seeing solution
  - 1/9/2026 - without seeing solution
  - 11/9/2026 - without seeing solution
  - 10/10/2026 - without seeing solution
+
+## Missing Number - watched
+ - 18/8/2026 - learning => done
+ - 19/8/2026 without seeing solution 
+ - 21/8/2026 - without seeing solution
+ - 24/8/2026 - without seeing solution
+ - 28/8/2026 - without seeing solution
+ - 2/9/2026 - without seeing solution
+ - 12/9/2026 - without seeing solution
+ - 11/10/2026 - without seeing solution

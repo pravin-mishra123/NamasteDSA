@@ -273,3 +273,29 @@
 // - https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/description/
 // - https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/description/
 // - https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/description/
+
+//-------------------------------------------------------------------------------
+
+// 8.Missing Number
+function missingNumber(nums){
+    let n = nums.length;
+    let totalSum = n * (n + 1) / 2;
+    let partialSum = 0;
+
+    for(let i = 0; i < nums.length; i++){
+        partialSum = partialSum + nums[i]
+    }
+
+    return totalSum - partialSum;
+    
+}
+
+console.log(missingNumber([4,0,1,2,5]))
+
+// Practice Similar questions
+// - https://leetcode.com/problems/first-missing-positive/description/
+// - https://leetcode.com/problems/single-number/description/
+// - https://leetcode.com/problems/find-the-duplicate-number/description/
+// - https://leetcode.com/problems/couples-holding-hands/description/
+// - https://leetcode.com/problems/find-unique-binary-string/description/
+// - https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/
