@@ -299,3 +299,43 @@
 // - https://leetcode.com/problems/couples-holding-hands/description/
 // - https://leetcode.com/problems/find-unique-binary-string/description/
 // - https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/
+
+// 9. Single Number
+// Approch1 : using hashmap
+// function singleNumber (nums){
+//        let hash = {}; // hashmap is just javascript object only
+
+//     for(let i = 0; i < nums.length; i++){
+//         if(!hash[nums[i]]){
+//             // console.log("first : ", hash)
+//             hash[nums[i]] = 1
+//             // console.log("second : ", hash)
+//         }else{
+//             hash[nums[i]]++
+//             // console.log("three : ", hash)
+//         }
+//     }
+    
+//     for(let i = 0; i < nums.length; i++){
+//         if(hash[nums[i]] == 1){
+//             console.log("final : ", hash)
+//             return nums[i]
+//         }
+//     }
+// }
+
+// console.log(singleNumber([2,2,1,5,3,7,4,3,1,4,7]))
+
+// approch2 => using Bitwise XOR
+// please read about the XOR => it use to remove / eliminate the duplicate from array
+
+// function singleNumber(nums){
+//     let xor = 0;
+
+//     for(let i = 0; i < nums.length; i++){
+//         xor = xor^nums[i]
+//     }
+//     return xor
+// }
+
+// console.log(singleNumber([1,2,3,1,2]))

@@ -187,3 +187,13 @@ I will try this pattern question (17/8/2026)
  - 2/9/2026 - without seeing solution
  - 12/9/2026 - without seeing solution
  - 11/10/2026 - without seeing solution
+
+## Single Number - watched
+ - 19/8/2026 - learning => done
+ - 20/8/2026 without seeing solution 
+ - 22/8/2026 - without seeing solution
+ - 25/8/2026 - without seeing solution
+ - 29/8/2026 - without seeing solution
+ - 3/9/2026 - without seeing solution
+ - 13/9/2026 - without seeing solution
+ - 12/10/2026 - without seeing solution
