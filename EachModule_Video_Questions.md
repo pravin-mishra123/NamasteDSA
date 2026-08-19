@@ -447,14 +447,45 @@
    - https://leetcode.com/problems/find-unique-binary-string/description/
    - https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/
 
-   *  Notes : find the sum of nth number
+  *  Notes : find the sum of nth number
 
-      sum = n * (n + 1) /2
+    sum = n * (n + 1) /2
 
-      find the sum of array 
-      loop on the array then 
-      sumArray= sumArray + nums[i]
-      missingNumber = sum - sumArray
+    find the sum of array 
+    loop on the array then 
+    sumArray= sumArray + nums[i]
+    missingNumber = sum - sumArray
+
+## Single Number
+
+ 1. Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+
+  You must implement a solution with a linear runtime complexity and use only constant extra space.
+ 
+ - Leetcode Link : https://leetcode.com/problems/single-number/description/
+
+ * Input: nums = [4,1,2,1,2]
+   Output: 4
+
+ * Input: nums = [2,2,1]
+   Output: 1
+
+ * Input: nums = [1]
+   Output: 1
+
+ * Notes : " Practce Similar Questions" without seeing the hint and solutions
+
+   - https://leetcode.com/problems/single-number-ii/description/
+   - https://leetcode.com/problems/single-number-iii/description/
+   - https://leetcode.com/problems/missing-number/description/
+   - https://leetcode.com/problems/find-the-duplicate-number/description/
+   - https://leetcode.com/problems/find-the-difference/description/
+   - https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/description/
+
+  *  Notes : Read about the Bitwise XOR
+    - Link for Read Bitwise XOR in JS : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_XOR
+
+    - Bitwise XOR is used for removing / eliminate duplicate element from an array
    
 
 
