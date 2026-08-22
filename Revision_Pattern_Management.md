@@ -1,7 +1,7 @@
 * Hare ka sahara Baba Shyam Hamara
 
-# Revison mantra
-## Resolve, Don't rewatch
+# Revision mantra
+## Resolve, Don't re-watch
 ### Learning for first time
     * Watch
     * Take Note + Revision sheet
@@ -11,10 +11,10 @@
     * Struggle (15 -20 min)
     * Refer Notes
     * Read Code
-    * Rewatch if needed
+    * Re-watch if needed
     
 --------------------------------------------------------------------------------
-Think about the corner cases while solviing the questions
+Think about the corner cases while solving the questions
 --------------------------------------------------------------------------------
 # Warm-up Module
 ##  Loops-2 : watched 
@@ -49,7 +49,7 @@ Think about the corner cases while solviing the questions
  - 22/9/2026 - without seeing solution
  - 25/10/2026 - without seeing solution
 
-## Star Pattern : watched (Most trickey video and  interesting) 
+## Star Pattern : watched (Most tricky video and  interesting) 
 I will try this pattern question (17/8/2026)
  - 29/7/2026 - learning => done
  - 30/7/2026 - without seeing solution
@@ -74,8 +74,8 @@ I will try this pattern question (17/8/2026)
  - 3/8/2026 without seeing solution => done
  - 5/8/2026 - without seeing solution => done
  - 8/8/2026 - without seeing solution => done
- - 12/8/2026 - without seeing solution
- - 22/8/2026 - without seeing solution
+ - 12/8/2026 - without seeing solution => done
+ - 22/8/2026 - without seeing solution => done
  - 20/9/2026 - without seeing solution
  - 25/10/2026 - without seeing solution
 
@@ -84,7 +84,7 @@ I will try this pattern question (17/8/2026)
  - 4/8/2026 without seeing solution => done
  - 6/8/2026 - without seeing solution => done
  - 9/8/2026 - without seeing solution => done
- - 13/8/2026 - without seeing solution
+ - 13/8/2026 - without seeing solution => done
  - 23/8/2026 - without seeing solution
  - 21/9/2026 - without seeing solution
  - 25/10/2026 - without seeing solution
@@ -92,7 +92,7 @@ I will try this pattern question (17/8/2026)
 ## Reverse Integer : watched
  - 4/8/2026 - learning => done
  - 5/8/2026 without seeing solution => done
- - 7/8/2026 - without seeing solution
+ - 7/8/2026 - without seeing solution => done
  - 10/8/2026 - without seeing solution
  - 14/8/2026 - without seeing solution
  - 24/8/2026 - without seeing solution

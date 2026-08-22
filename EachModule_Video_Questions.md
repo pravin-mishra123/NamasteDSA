@@ -161,11 +161,11 @@
     10101
 
 ## Count Digit 
- 1. write a function that returns the count of digin in number.
+ 1. write a function that returns the count of digit in number.
 
  * Corner case
    - if num = 0 only return 1 
-   - if my number is negative
+   - if my number is negative : return count of digit
    - Input should be integer data type only else return false
    - Input should not be -Infinity,Infinity return false
         
@@ -223,7 +223,7 @@
  * Input: x = 120
    Output: 21
 
- * Notes : " Practce Similar Questions" without seeing the hint and solutions
+ * Notes : " Practice Similar Questions" without seeing the hint and solutions
  
    - https://leetcode.com/problems/string-to-integer-atoi/description/
    - https://leetcode.com/problems/reverse-bits/description/
