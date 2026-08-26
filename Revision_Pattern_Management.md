@@ -23,8 +23,8 @@ Think about the corner cases while solving the questions
  - 30/7/2026 - without seeing solution => done
  - 5/8/2026 - without seeing solution => done
  - 9/8/2026 - without seeing solution => done
- - 16/8/2026 - without seeing solution => done;
- - 26/8/2026 - without seeing solution
+ - 16/8/2026 - without seeing solution => done
+ - 26/8/2026 - without seeing solution => done
  - 21/9/2026 - without seeing solution
  - 25/10/2026 - without seeing solution
 
