@@ -4,42 +4,51 @@
 //    - if Array contain string, bool or other types then also it should false;
 
 // function searchElement(arr,ele){
-//     if(!Array.isArray(arr)) return false;
+        // Input must be an array
+//     if(!Array.isArray(arr))return false;
 
-//     if(arr.length===0) return false;
-
+        //Array must not be empty
+//     if(arr.length === 0) return false
 //     for(let i = 0; i < arr.length; i++){
-//         if(typeof arr[i] !== "number" || !Number.isFinite(arr[i])) return false;
 
-//         if(arr[i] === ele){
-//             return i
-//         }
+        //  Validate the entire array first
+//         if(typeof arr[i] !== "number" || !Number.isFinite(arr[i])) return "array contain array only"
+//     }
+
+        // Now search for the element
+//     for(let i = 0; i < arr.length; i++){
+//         if(arr[i] === ele) return i
 //     }
 //     return -1
 // }
-
-// let arr = [1,5,20,{}];
-// console.log(searchElement(arr,20))
+// let arr = [2,5]
+// console.log(searchElement(arr,6))
 
 
 
 // write a function that returns the negative numbers counts from the given array
 
-// function countNegative(arr){
+// function countNegative(num){
+
+//     if(!Array.isArray(num)) return false;
+
+//     if(num.length === 0) return false;
+
 //     let count = 0;
-    
-//     for (let i = 0; i < arr.length; i++){
-//         if(arr[i] < 0 ){
-//             count++
+
+//     for(let i = 0; i < num.length; i++){
+//         if(typeof num[i] !== "number" || !Number.isFinite(num[i])) return false
+        
+//     }
+//     for(let i = 0; i < num.length; i++){
+//         if(num[i] < 0){
+//             count++;
 //         }
 //     }
 //     return count
 // }
-
-// let arr = [2,-9,17,0,1,-10,-4,-8];
-
-// let result = countNegative(arr)
-// console.log(result)
+// let arr = [-2,-3,-4]
+// console.log(countNegative(arr))
 
 
 // write a function to find out the count of duplicate element in an array
@@ -77,14 +86,20 @@
 // find the smallest number in an array
 
 // function smallestNumber(arr){
-//     let smallest = Infinity; // aar[0]
-//     for(let i =0; i< arr.length; i++){
-//         if(arr[i] < smallest ){
+//     if(!Array.isArray(arr)) return false;
+//     if(arr.length === 0) return false;
+
+//     let smallest = Infinity;
+//     for(let i = 0; i < arr.length; i++){
+//         if(typeof arr[i] !== "number" || !Number.isFinite(arr[i])) return false
+//         if(arr[i] < smallest){
 //             smallest = arr[i]
 //         }
 //     }
-//     return smallest
+//     return smallest;
 // }
+
+console.log(smallestNumber([8,3,4]))
 
 // let arr = [-2,20,3,2,40,5,8,17,-1]
 // // let arr = [0,-4,-2,-1]
