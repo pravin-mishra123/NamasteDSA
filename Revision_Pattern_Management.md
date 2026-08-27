@@ -34,8 +34,8 @@ Think about the corner cases while solving the questions
  - 31/7/2026 - without seeing solution => done
  - 4/8/2026 - without seeing solution => done
  - 9/8/2026 - without seeing solution => done
- - 16/8/2026 - without seeing solution => done;
- - 26/8/2026 - without seeing solution
+ - 16/8/2026 - without seeing solution => done
+ - 26/8/2026 - without seeing solution => done
  - 21/9/2026 - without seeing solution
  - 25/10/2026 - without seeing solution
 
@@ -45,7 +45,7 @@ Think about the corner cases while solving the questions
  - 3/8/2026 - without seeing solution => done
  - 6/8/2026 - without seeing solution => done
  - 10/8/2026 - without seeing solution => done
- - 25/8/2026 - without seeing solution =>
+ - 25/8/2026 - without seeing solution => done
  - 22/9/2026 - without seeing solution
  - 25/10/2026 - without seeing solution
 
@@ -85,7 +85,7 @@ I will try this pattern question (17/8/2026)
  - 6/8/2026 - without seeing solution => done
  - 9/8/2026 - without seeing solution => done
  - 13/8/2026 - without seeing solution => done
- - 23/8/2026 - without seeing solution
+ - 23/8/2026 - without seeing solution => done
  - 21/9/2026 - without seeing solution
  - 25/10/2026 - without seeing solution
 
@@ -93,7 +93,7 @@ I will try this pattern question (17/8/2026)
  - 4/8/2026 - learning => done
  - 5/8/2026 without seeing solution => done
  - 7/8/2026 - without seeing solution => done
- - 10/8/2026 - without seeing solution
+ - 10/8/2026 - without seeing solution => done
  - 14/8/2026 - without seeing solution
  - 24/8/2026 - without seeing solution
  - 23/9/2026 - without seeing solution
