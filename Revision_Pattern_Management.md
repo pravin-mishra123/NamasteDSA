@@ -94,7 +94,7 @@ I will try this pattern question (17/8/2026)
  - 5/8/2026 without seeing solution => done
  - 7/8/2026 - without seeing solution => done
  - 10/8/2026 - without seeing solution => done
- - 14/8/2026 - without seeing solution
+ - 14/8/2026 - without seeing solution => done
  - 24/8/2026 - without seeing solution
  - 23/9/2026 - without seeing solution
  - 25/10/2026 - without seeing solution
@@ -103,7 +103,7 @@ I will try this pattern question (17/8/2026)
  - Note : " Revise from notes and explore more from internet
  
  - 7/8/2026 - learning => done
- - 8/8/2026 without seeing solution 
+ - 8/8/2026 - without seeing solution 
  - 10/8/2026 - without seeing solution
  - 13/8/2026 - without seeing solution
  - 17/8/2026 - without seeing solution
@@ -197,3 +197,14 @@ I will try this pattern question (17/8/2026)
  - 3/9/2026 - without seeing solution
  - 13/9/2026 - without seeing solution
  - 12/10/2026 - without seeing solution
+
+# Recursion - Easy/Medium Module (V.V.V IMP)
+## Recursion 101
+ - 1/9/2026 - learning => done
+ - 2/9/2026 without seeing solution 
+ - 4/9/2026 - without seeing solution
+ - 7/9/2026 - without seeing solution
+ - 11/9/2026 - without seeing solution
+ - 16/9/2026 - without seeing solution
+ - 26/9/2026 - without seeing solution
+ - 20/10/2026 - without seeing solution
