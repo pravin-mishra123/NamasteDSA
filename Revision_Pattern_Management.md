@@ -95,7 +95,7 @@ I will try this pattern question (17/8/2026)
  - 7/8/2026 - without seeing solution => done
  - 10/8/2026 - without seeing solution => done
  - 14/8/2026 - without seeing solution => done
- - 24/8/2026 - without seeing solution
+ - 24/8/2026 - without seeing solution => done
  - 23/9/2026 - without seeing solution
  - 25/10/2026 - without seeing solution
 
