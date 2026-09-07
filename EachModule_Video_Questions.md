@@ -507,5 +507,51 @@
   - 2- Comment Thread
   - 3- Organisational Hierarchies
 
+  What is a function call inside a function it self
+  - example 1
+  function fun(){
+     console.log("Recurion call");
+     fun();
+  }
+
+  fun()
+
+  function call itself in infinite times till call stack exuast
+
+  - example-2
+  function fun(num){
+  //Base Case - it should be always on top of the Program
+    if(num==0) return;
+    console.log(num);
+    num = num-1;
+   //Recusrsive Case
+    fun(num)
+  }
+
+  fun(2)
+
+  - When bases case true then it return it and functon will stop calling itself.
+  - imp - Always base case should be written on the top of the program.
+
+  * Q1 - Write a function to print n ---- to 1 using recursion
+    - output => 10 9 8 7 6 5 4 3 2 1 .... anywhere you want to print
+    
+  * Q2 - Write a function to pring 1 --- to n using recursion
+    - output => 1 2 3 4 5 6  8 9 10 ----- anywhere you want to print
+
+  - Common Mistakes
+    - Missing base case => Stack Overflow
+    - Not Simplyfying the input => Never Reach the base case
+    - Too Deep Recursion => Large Input
+    - Keeping in mind the Time Complexity
+
+  - When to use Recursion ?
+    - Problem can be broken into sub problems
+    - Trees & Graph
+    - Backtacking, DP, Divide & Conquer  
+
+## Sum of first n numbers
+
+
 # Searching & Sorting - Easy/Medium ?
 
